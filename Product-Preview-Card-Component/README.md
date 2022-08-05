@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Benji003/test)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://benji003.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
