@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Benji003/test)
+- Solution URL: https://github.com/Benji003/Product-Preview-Card-Component.git)
 - Live UR:: (https://benji003.github.io/Product-Preview-Card-Component)
 
 ## My process
