@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot(14).png)
+![](./Screenshot(14).png)
 
 ### Links
 - Live Site URL: (https://your-live-site-url.com)
