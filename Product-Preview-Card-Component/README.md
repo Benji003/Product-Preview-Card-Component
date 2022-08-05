@@ -46,3 +46,4 @@ Implementation of hover element for interactive functions.
 ## Author
 
 - Github - https://github.com/Benji003
+- Frontend Mentor - https://www.frontendmentor.io/profile/Kadayinor
